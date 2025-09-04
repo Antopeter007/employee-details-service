@@ -1,17 +1,18 @@
-Employee Details API
+# 🚀 Employee Details API  
 
-Spring Boot project exposing REST APIs to fetch employee details and roles.
+Spring Boot project exposing REST APIs to fetch **employee details** and **roles**.  
 
-Endpoints
+---
 
-GET /details → Returns list of employees with name, salary, code, and phone.
+## 📌 Endpoints  
 
-GET /info → Returns employee roles.
+- **GET `/details`** → Returns list of employees with **name, salary, code, and phone**.  
+- **GET `/info`** → Returns **employee roles**.  
 
-Tech Stack
+---
 
-Java 17+
+## 🛠 Tech Stack  
 
-Spring Boot
-
-Maven/Gradle
+- **Java 17+**  
+- **Spring Boot**  
+- **Maven / Gradle**  
